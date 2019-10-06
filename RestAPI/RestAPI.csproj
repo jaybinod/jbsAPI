@@ -218,7 +218,6 @@
     <Compile Include="User.cs">
       <DependentUpon>RestAPIDBContext.tt</DependentUpon>
     </Compile>
-    <Compile Include="UserSecurity.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
